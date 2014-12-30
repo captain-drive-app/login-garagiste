@@ -1,4 +1,4 @@
-login-garagiste
+S'inscrire sur CaptainDrive
 ===============
 
-Inscription garagiste
+Commencer à recevoir des demandes de devis gratuitement
